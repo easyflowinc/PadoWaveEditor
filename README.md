@@ -1,111 +1,137 @@
 # Pado Wave Editor
 
+<p align="center">
+
 **Professional Audio Wave Editor for Windows**
 
-Pado Wave Editor is a professional audio editing application for Windows, designed to provide fast, intuitive, and high-quality waveform editing for music production, podcasting, voice recording, sound effects, and audio restoration.
+Fast, precise and powerful audio editing with waveform analysis,
+spectrogram visualization, professional filters and recording tools.
+
+</p>
 
 ---
 
 ## Download
 
-Download the latest **Pado.Wave.Editor.Installer.exe** from the **Releases** section.
+Download the latest installer from **Releases**.
 
-The installer automatically launches **Microsoft Store** and installs or updates the latest version of **Pado Wave Editor**.
+The installer automatically opens **Microsoft Store** and installs the latest official version of **Pado Wave Editor**.
 
 ---
 
 ## Features
 
-* Professional waveform editing
-* High-performance audio processing
-* Precise zoom and selection
-* Non-destructive editing workflow
-* Large file support
-* Intuitive Windows user interface
-* Optimized for Windows 10 and Windows 11
-* Automatic updates through Microsoft Store
+- Professional waveform editor
+- High-performance audio engine
+- Multi-channel editing
+- High-pass / Low-pass filters
+- Spectrogram analysis
+- FFT analysis
+- Precision zoom
+- Real-time playback
+- Recording
+- Large audio file support
+- Windows 10 / Windows 11 optimized
+- Automatic updates through Microsoft Store
 
 ---
 
-## System Requirements
+# Screenshots
 
-| Item             | Requirement                               |
-| ---------------- | ----------------------------------------- |
-| Operating System | Windows 10 (64-bit) or Windows 11         |
-| Internet         | Required for Microsoft Store installation |
-| Microsoft Store  | Required                                  |
-| Architecture     | x64                                       |
+## Main Workspace
+
+<p align="center">
+<img src="images/01-main-workspace.png" width="100%">
+</p>
+
+Complete waveform editing workspace with overview navigator, playback controls and precision zoom.
 
 ---
 
-## Installation
+## Spectrogram Analysis
 
-1. Download **Pado.Wave.Editor.Installer.exe** from the latest Release.
+<p align="center">
+<img src="images/04-panels.png" width="100%">
+</p>
+
+Analyze frequency content using the built-in spectrogram and FFT visualization.
+
+---
+
+## Professional Audio Filters
+
+<p align="center">
+<img src="images/03-effects-analysis.png" width="100%">
+</p>
+
+Apply High-pass, Low-pass and other professional audio processing tools.
+
+---
+
+## Channel Editing
+
+<p align="center">
+<img src="images/02-channel-editing.png" width="100%">
+</p>
+
+Edit individual channels independently or process all channels simultaneously.
+
+---
+
+## Recording
+
+<p align="center">
+<img src="images/05-playback-recording.png" width="100%">
+</p>
+
+Record audio directly inside Pado Wave Editor.
+
+---
+
+# Installation
+
+1. Download **Pado.Wave.Editor.Installer.exe**
 2. Run the installer.
-3. Microsoft Store will open automatically.
-4. Click **Install**.
-5. Launch **Pado Wave Editor** after installation.
+3. Microsoft Store opens automatically.
+4. Install Pado Wave Editor.
 
 ---
 
-## Updating
+# System Requirements
 
-Updates are delivered automatically through Microsoft Store.
-
-Simply keep Microsoft Store enabled to receive the latest improvements and fixes.
+| Item | Requirement |
+|------|-------------|
+| Operating System | Windows 10 / Windows 11 |
+| Architecture | x64 |
+| Microsoft Store | Required |
+| Internet Connection | Required for installation |
 
 ---
 
-## Bug Reports
+# Feedback
 
 Found a bug?
 
-Please open a GitHub Issue and include:
+Please create a GitHub Issue.
 
-* Pado Wave Editor version
-* Windows version
-* Steps to reproduce
-* Expected behavior
-* Actual behavior
-* Screenshots (if available)
+Feature requests are also welcome.
 
 ---
 
-## Feature Requests
+# Support
 
-Have an idea?
-
-Feature requests are welcome through GitHub Issues.
-
-User feedback helps improve future versions of Pado Wave Editor.
+easyflowinc@naver.com
 
 ---
 
-## Support
+# Copyright
 
-For technical support or business inquiries:
+© EasyFlow Inc.
 
-**[easyflowinc@naver.com](mailto:easyflowinc@naver.com)**
-
----
-
-## Copyright
-
-© EasyFlow Inc. All rights reserved.
+All Rights Reserved.
 
 Pado Wave Editor is commercial software.
 
-No source code is distributed through this repository.
+This repository distributes the official Microsoft Store installer only.
 
----
-
-## Microsoft Store
-
-Pado Wave Editor is officially distributed through Microsoft Store.
-
-The installer included in this repository launches Microsoft Store and installs the latest official version.
-
----
-
-Thank you for using **Pado Wave Editor**.
-
+Source code is not included.
