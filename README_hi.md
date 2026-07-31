@@ -15,6 +15,11 @@
 🇮🇳 [हिन्दी](README_hi.md) |
 🇮🇩 [Bahasa Indonesia](README_id.md)
 
+
+<p align="center">
+    <img src="Square310x310Logo.png" width="200" alt="Pado Wave Editor Logo">
+</p>
+
 # Pado Wave Editor
 
 <p align="center">
