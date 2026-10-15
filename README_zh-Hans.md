@@ -167,7 +167,7 @@ MIDI 文件（.mid、.midi、.rmi）里装的是音符，不是声音。打开�
 ## 下载
 
 - [从 Microsoft Store 获取](https://apps.microsoft.com/detail/9nj5928hw9pw)
-- 运行 **Releases** 中的安装程序也会打开 Microsoft Store 并安装官方版本。
+- [**Releases**](https://github.com/easyflowinc/PadoWaveEditor/releases) 中的链接同样指向 Microsoft Store。
 - [详细说明与常见问题](https://easyflow.co.kr/F/Doc/PadoWaveEditor/zh-Hans)
 - [上一版本（2.0）介绍](v2.0/README_zh-Hans.md)
 - [上一版本（1.0）介绍](v1.0/README_zh-Hans.md)

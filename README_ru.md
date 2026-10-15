@@ -167,7 +167,7 @@
 ## Скачать
 
 - [Скачать в Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw)
-- Установщик из **Releases** тоже открывает Microsoft Store и устанавливает официальную версию.
+- В разделе [**Releases**](https://github.com/easyflowinc/PadoWaveEditor/releases) тоже есть ссылка на Microsoft Store.
 - [Подробное руководство и частые вопросы](https://easyflow.co.kr/F/Doc/PadoWaveEditor/ru)
 - [Предыдущая версия (2.0)](v2.0/README_ru.md)
 - [Предыдущая версия (1.0)](v1.0/README_ru.md)

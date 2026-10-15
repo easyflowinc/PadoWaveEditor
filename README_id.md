@@ -167,7 +167,7 @@ Format yang didukung: WAV, AIFF, FLAC, Ogg Vorbis, MP3, WMA. MP3 dan WMA menggun
 ## Unduh
 
 - [Dapatkan di Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw)
-- Penginstal di **Releases** juga membuka Microsoft Store dan memasang versi resmi.
+- [**Releases**](https://github.com/easyflowinc/PadoWaveEditor/releases) juga mengarah ke Microsoft Store.
 - [Panduan lengkap dan tanya jawab](https://easyflow.co.kr/F/Doc/PadoWaveEditor/id)
 - [Versi sebelumnya (2.0)](v2.0/README_id.md)
 - [Versi sebelumnya (1.0)](v1.0/README_id.md)

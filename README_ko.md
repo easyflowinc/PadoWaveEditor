@@ -167,7 +167,7 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 ## 다운로드
 
 - [Microsoft Store에서 받기](https://apps.microsoft.com/detail/9nj5928hw9pw)
-- **Releases**의 설치 프로그램을 실행해도 Microsoft Store가 열려 공식 버전이 설치됩니다.
+- [**Releases**](https://github.com/easyflowinc/PadoWaveEditor/releases)에서도 Microsoft Store로 연결됩니다.
 - [자세한 설명과 자주 묻는 질문](https://easyflow.co.kr/F/Doc/PadoWaveEditor/ko)
 - [이전 버전(2.0) 소개 보기](v2.0/README_ko.md)
 - [이전 버전(1.0) 소개 보기](v1.0/README_ko.md)

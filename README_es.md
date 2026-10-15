@@ -167,7 +167,7 @@ Formatos compatibles: WAV, AIFF, FLAC, Ogg Vorbis, MP3 y WMA. MP3 y WMA utilizan
 ## Descarga
 
 - [Consíguelo en Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw)
-- El instalador de **Releases** también abre Microsoft Store e instala la versión oficial.
+- Las [**Releases**](https://github.com/easyflowinc/PadoWaveEditor/releases) también enlazan con Microsoft Store.
 - [Guía completa y preguntas frecuentes](https://easyflow.co.kr/F/Doc/PadoWaveEditor/es)
 - [Versión anterior (2.0)](v2.0/README_es.md)
 - [Versión anterior (1.0)](v1.0/README_es.md)

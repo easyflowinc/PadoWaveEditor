@@ -169,7 +169,7 @@
 ## التنزيل
 
 - [احصل عليه من Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw)
-- يؤدي تشغيل برنامج التثبيت من **Releases** أيضًا إلى فتح Microsoft Store وتثبيت الإصدار الرسمي.
+- تؤدي صفحة [**Releases**](https://github.com/easyflowinc/PadoWaveEditor/releases) أيضًا إلى Microsoft Store.
 - [الدليل الكامل والأسئلة الشائعة](https://easyflow.co.kr/F/Doc/PadoWaveEditor/ar)
 - [الإصدار السابق (2.0)](v2.0/README_ar.md)
 - [الإصدار السابق (1.0)](v1.0/README_ar.md)

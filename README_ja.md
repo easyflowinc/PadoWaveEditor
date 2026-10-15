@@ -167,7 +167,7 @@ MIDIファイル(.mid・.midi・.rmi)に入っているのは音ではなく音�
 ## ダウンロード
 
 - [Microsoft Store から入手](https://apps.microsoft.com/detail/9nj5928hw9pw)
-- **Releases** のインストーラーを実行しても Microsoft Store が開き、公式版がインストールされます。
+- [**Releases**](https://github.com/easyflowinc/PadoWaveEditor/releases) からも Microsoft Store に移動できます。
 - [詳しい説明とよくある質問](https://easyflow.co.kr/F/Doc/PadoWaveEditor/ja)
 - [以前のバージョン(2.0)の紹介](v2.0/README_ja.md)
 - [以前のバージョン(1.0)の紹介](v1.0/README_ja.md)

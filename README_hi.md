@@ -167,7 +167,7 @@ MIDI फ़ाइल (.mid, .midi, .rmi) में आवाज़ नहीं,
 ## डाउनलोड
 
 - [Microsoft Store से पाएँ](https://apps.microsoft.com/detail/9nj5928hw9pw)
-- **Releases** का इंस्टॉलर चलाने पर भी Microsoft Store खुलता है और आधिकारिक संस्करण इंस्टॉल होता है।
+- [**Releases**](https://github.com/easyflowinc/PadoWaveEditor/releases) से भी Microsoft Store पर पहुँचा जा सकता है।
 - [पूरी जानकारी और अक्सर पूछे जाने वाले प्रश्न](https://easyflow.co.kr/F/Doc/PadoWaveEditor/hi)
 - [पिछला संस्करण (2.0)](v2.0/README_hi.md)
 - [पिछला संस्करण (1.0)](v1.0/README_hi.md)
