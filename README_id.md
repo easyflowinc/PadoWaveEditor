@@ -30,7 +30,7 @@ Rekaman suara, latihan menyanyi, efek suara untuk videomu — seret file ke jend
 [Dapatkan di Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Panduan lengkap dan tanya jawab](https://easyflow.co.kr/F/Doc/PadoWaveEditor/id) · [Versi sebelumnya (2.0)](v2.0/README_id.md) · [Versi sebelumnya (1.0)](v1.0/README_id.md)
 
 <p align="center">
-<img src="images/01-side-by-side-compare.webp" width="100%" alt="Tambatkan dua file berdampingan lalu putar atau ulangi sambil membandingkan">
+<img src="images/id/01-side-by-side-compare.webp" width="100%" alt="Tambatkan dua file berdampingan lalu putar atau ulangi sambil membandingkan">
 </p>
 
 <p align="center"><i>Tambatkan dua file berdampingan lalu putar atau ulangi sambil membandingkan</i></p>
@@ -59,7 +59,7 @@ Rekaman suara, latihan menyanyi, efek suara untuk videomu — seret file ke jend
 ### 01. Edit audio dalam ruang kerja bentuk gelombang multikanal yang jelas
 
 <p align="center">
-<img src="images/03-main-workspace.webp" width="100%" alt="Edit audio dalam ruang kerja bentuk gelombang multikanal yang jelas">
+<img src="images/id/03-main-workspace.webp" width="100%" alt="Edit audio dalam ruang kerja bentuk gelombang multikanal yang jelas">
 </p>
 
 Edit di bentuk gelombang besar di atas, dan lihat di strip ikhtisar di bawah posisimu di seluruh file. Info file, posisi putar, dan panjang pilihan selalu ada di bilah info tepat di bawah bentuk gelombang. File panjang menampilkan bentuk gelombang cepat dulu lalu melengkapi detailnya, jadi kamu tidak perlu lama menunggu.
@@ -67,7 +67,7 @@ Edit di bentuk gelombang besar di atas, dan lihat di strip ikhtisar di bawah pos
 ### 02. Pilih dan edit semua kanal sekaligus atau satu kanal pada satu waktu
 
 <p align="center">
-<img src="images/05-channel-editing.webp" width="100%" alt="Pilih dan edit semua kanal sekaligus atau satu kanal pada satu waktu">
+<img src="images/id/05-channel-editing.webp" width="100%" alt="Pilih dan edit semua kanal sekaligus atau satu kanal pada satu waktu">
 </p>
 
 Untuk audio stereo, kamu bisa memilih kanal kiri (atas) dan kanan (bawah) sekaligus, atau hanya salah satunya. Hapus derau yang cuma ada di satu sisi atau beri fade pada satu kanal saja — perbaikan detail jadi gampang.
@@ -75,7 +75,7 @@ Untuk audio stereo, kamu bisa memilih kanal kiri (atas) dan kanan (bawah) sekali
 ### 03. Buka berkas MIDI sebagai waveform yang dimainkan oleh sound font bawaan
 
 <p align="center">
-<img src="images/02-midi-as-waveform.webp" width="100%" alt="Buka berkas MIDI sebagai waveform yang dimainkan oleh sound font bawaan">
+<img src="images/id/02-midi-as-waveform.webp" width="100%" alt="Buka berkas MIDI sebagai waveform yang dimainkan oleh sound font bawaan">
 </p>
 
 File MIDI (.mid, .midi, .rmi) berisi not, bukan suara. Pado Wave Editor memainkannya dengan sound font bawaan (MuseScore General) dan menampilkan hasilnya sebagai bentuk gelombang, jadi kamu bisa memotong, menambah efek, dan menyimpannya sebagai WAV atau MP3 seperti audio biasa. Lebih suka sound font SF2 atau SF3 lain? Ganti di Opsi.
@@ -83,7 +83,7 @@ File MIDI (.mid, .midi, .rmi) berisi not, bukan suara. Pado Wave Editor memainka
 ### 04. Sesuaikan dan periksa suara dengan efek, filter, dan alat analisis
 
 <p align="center">
-<img src="images/04-effects-analysis.webp" width="100%" alt="Sesuaikan dan periksa suara dengan efek, filter, dan alat analisis">
+<img src="images/id/04-effects-analysis.webp" width="100%" alt="Sesuaikan dan periksa suara dengan efek, filter, dan alat analisis">
 </p>
 
 Terapkan equalizer, filter, kompresor, normalisasi, dan lainnya hanya pada bagian yang dipilih. Seret titik di grafik untuk membentuk suara, dan simpan hingga 10 pengaturan equalizer untuk dimuat lagi nanti.
@@ -91,7 +91,7 @@ Terapkan equalizer, filter, kompresor, normalisasi, dan lainnya hanya pada bagia
 ### 05. Telusuri audio dengan region, penanda, lapisan, dan panel spektrogram
 
 <p align="center">
-<img src="images/06-panels.webp" width="100%" alt="Telusuri audio dengan region, penanda, lapisan, dan panel spektrogram">
+<img src="images/id/06-panels.webp" width="100%" alt="Telusuri audio dengan region, penanda, lapisan, dan panel spektrogram">
 </p>
 
 Region bernama dan berwarna, penanda posisi, dan lapisan untuk menyalakan dan mematikan pemrosesan agar bisa dibandingkan membuatmu tidak tersesat bahkan di file panjang. Spektrogram menampilkan suara sebagai warna per frekuensi, jadi derau dan letupan langsung terlihat.
@@ -99,7 +99,7 @@ Region bernama dan berwarna, penanda posisi, dan lapisan untuk menyalakan dan me
 ### 06. Buat efek suara dari ratusan preset berbasis rumus
 
 <p align="center">
-<img src="images/07-sfx-generator.webp" width="100%" alt="Buat efek suara dari ratusan preset berbasis rumus">
+<img src="images/id/07-sfx-generator.webp" width="100%" alt="Buat efek suara dari ratusan preset berbasis rumus">
 </p>
 
 Cari di antara ratusan preset — laser, ledakan, peringatan, bahkan instrumen — lalu atur frekuensi, durasi, dan peluruhan dan langsung dengarkan hasilnya. Simpan yang kamu suka sebagai preset sendiri. Cocok untuk membuat suara sendiri untuk game dan video.
@@ -107,7 +107,7 @@ Cari di antara ratusan preset — laser, ledakan, peringatan, bahkan instrumen �
 ### 07. Seret dan lepas file audio ke editor untuk membukanya di tab baru
 
 <p align="center">
-<img src="images/08-drag-and-drop.webp" width="100%" alt="Seret dan lepas file audio ke editor untuk membukanya di tab baru">
+<img src="images/id/08-drag-and-drop.webp" width="100%" alt="Seret dan lepas file audio ke editor untuk membukanya di tab baru">
 </p>
 
 Cukup seret file audio dari File Explorer ke jendela dan masing-masing terbuka di tab baru. Bisa juga menjatuhkan beberapa file sekaligus.
@@ -115,7 +115,7 @@ Cukup seret file audio dari File Explorer ke jendela dan masing-masing terbuka d
 ### 08. Lihat dan sesuaikan pintasan keyboard
 
 <p align="center">
-<img src="images/09-keyboard-shortcuts.webp" width="100%" alt="Lihat dan sesuaikan pintasan keyboard">
+<img src="images/id/09-keyboard-shortcuts.webp" width="100%" alt="Lihat dan sesuaikan pintasan keyboard">
 </p>
 
 Lihat menu dan pintasan dalam satu tabel, ganti tombol apa pun, atau kembalikan ke bawaan. Simpan pengaturanmu sebagai preset dan muat lagi kapan saja.
@@ -123,7 +123,7 @@ Lihat menu dan pintasan dalam satu tabel, ganti tombol apa pun, atau kembalikan 
 ### 09. Pulihkan pekerjaan yang belum disimpan secara otomatis setelah aplikasi tertutup tiba-tiba
 
 <p align="center">
-<img src="images/10-autosave-recovery.webp" width="100%" alt="Pulihkan pekerjaan yang belum disimpan secara otomatis setelah aplikasi tertutup tiba-tiba">
+<img src="images/id/10-autosave-recovery.webp" width="100%" alt="Pulihkan pekerjaan yang belum disimpan secara otomatis setelah aplikasi tertutup tiba-tiba">
 </p>
 
 Kalau aplikasi tiba-tiba tertutup, tenang. Saat dibuka lagi, aplikasi menemukan pekerjaan yang belum disimpan dan menanyakan apakah mau dibuka, diputuskan nanti, atau dibuang. Pilih nanti, dan file pemulihan tetap disimpan serta ditawarkan lagi saat dijalankan berikutnya.

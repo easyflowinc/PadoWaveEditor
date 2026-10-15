@@ -30,7 +30,7 @@
 [从 Microsoft Store 获取](https://apps.microsoft.com/detail/9nj5928hw9pw) · [详细说明与常见问题](https://easyflow.co.kr/F/Doc/PadoWaveEditor/zh-Hans) · [上一版本（2.0）介绍](v2.0/README_zh-Hans.md) · [上一版本（1.0）介绍](v1.0/README_zh-Hans.md)
 
 <p align="center">
-<img src="images/01-side-by-side-compare.webp" width="100%" alt="将两个文件左右并排停靠，边比较边播放或循环播放">
+<img src="images/zh-Hans/01-side-by-side-compare.webp" width="100%" alt="将两个文件左右并排停靠，边比较边播放或循环播放">
 </p>
 
 <p align="center"><i>将两个文件左右并排停靠，边比较边播放或循环播放</i></p>
@@ -59,7 +59,7 @@
 ### 01. 在清晰的多声道波形工作区中编辑音频
 
 <p align="center">
-<img src="images/03-main-workspace.webp" width="100%" alt="在清晰的多声道波形工作区中编辑音频">
+<img src="images/zh-Hans/03-main-workspace.webp" width="100%" alt="在清晰的多声道波形工作区中编辑音频">
 </p>
 
 在上方的大波形中编辑，下方的概览条让你一眼看出当前位于整个文件的哪里。文件信息、播放位置和选区长度始终显示在波形正下方的信息栏。长文件也会先快速显示波形，再补全细节，不用久等。
@@ -67,7 +67,7 @@
 ### 02. 同时编辑全部声道，或逐个选择声道进行精细编辑
 
 <p align="center">
-<img src="images/05-channel-editing.webp" width="100%" alt="同时编辑全部声道，或逐个选择声道进行精细编辑">
+<img src="images/zh-Hans/05-channel-editing.webp" width="100%" alt="同时编辑全部声道，或逐个选择声道进行精细编辑">
 </p>
 
 立体声音频可以同时选择左（上）右（下）两个声道，也可以只选其中一个。只清除一侧的噪音，或只给一个声道加淡入淡出，精细修改很轻松。
@@ -75,7 +75,7 @@
 ### 03. 用内置音色库演奏 MIDI 文件，并以波形打开和编辑
 
 <p align="center">
-<img src="images/02-midi-as-waveform.webp" width="100%" alt="用内置音色库演奏 MIDI 文件，并以波形打开和编辑">
+<img src="images/zh-Hans/02-midi-as-waveform.webp" width="100%" alt="用内置音色库演奏 MIDI 文件，并以波形打开和编辑">
 </p>
 
 MIDI 文件（.mid、.midi、.rmi）里装的是音符，不是声音。打开后，应用用内置音色库（MuseScore General）演奏并显示为波形，你可以像普通音频一样剪切、加效果，并保存为 WAV 或 MP3。更喜欢别的 SF2 或 SF3 音色库？在“选项”中切换即可。
@@ -83,7 +83,7 @@ MIDI 文件（.mid、.midi、.rmi）里装的是音符，不是声音。打开�
 ### 04. 使用效果、滤波器和分析工具调整并检查声音
 
 <p align="center">
-<img src="images/04-effects-analysis.webp" width="100%" alt="使用效果、滤波器和分析工具调整并检查声音">
+<img src="images/zh-Hans/04-effects-analysis.webp" width="100%" alt="使用效果、滤波器和分析工具调整并检查声音">
 </p>
 
 均衡器、滤波器、压缩器、标准化等效果可以只应用到选中的片段。拖动图上的点来塑造声音，均衡器设置最多可保存 10 组，之后再载入。
@@ -91,7 +91,7 @@ MIDI 文件（.mid、.midi、.rmi）里装的是音符，不是声音。打开�
 ### 05. 通过区域、提示点、图层和频谱图面板快速定位
 
 <p align="center">
-<img src="images/06-panels.webp" width="100%" alt="通过区域、提示点、图层和频谱图面板快速定位">
+<img src="images/zh-Hans/06-panels.webp" width="100%" alt="通过区域、提示点、图层和频谱图面板快速定位">
 </p>
 
 可命名、可着色的区域，标记位置的提示点，可开关处理结果进行对比的图层，让你在长文件中也不会迷路。频谱图用颜色按频率显示声音，噪音和爆音一眼就能找到。
@@ -99,7 +99,7 @@ MIDI 文件（.mid、.midi、.rmi）里装的是音符，不是声音。打开�
 ### 06. 使用数百个基于公式的预设生成音效
 
 <p align="center">
-<img src="images/07-sfx-generator.webp" width="100%" alt="使用数百个基于公式的预设生成音效">
+<img src="images/zh-Hans/07-sfx-generator.webp" width="100%" alt="使用数百个基于公式的预设生成音效">
 </p>
 
 搜索数百个预设——激光、爆炸、提示音，甚至乐器声——调整频率、时长、衰减等参数并立即试听。喜欢的设置可以保存为“我的预设”。非常适合为游戏和视频自制音效。
@@ -107,7 +107,7 @@ MIDI 文件（.mid、.midi、.rmi）里装的是音符，不是声音。打开�
 ### 07. 将音频文件拖放到编辑器中，在新标签页中打开
 
 <p align="center">
-<img src="images/08-drag-and-drop.webp" width="100%" alt="将音频文件拖放到编辑器中，在新标签页中打开">
+<img src="images/zh-Hans/08-drag-and-drop.webp" width="100%" alt="将音频文件拖放到编辑器中，在新标签页中打开">
 </p>
 
 只要把音频文件从文件资源管理器拖到窗口上，每个文件都会在新标签页中打开。也可以一次拖入多个文件。
@@ -115,7 +115,7 @@ MIDI 文件（.mid、.midi、.rmi）里装的是音符，不是声音。打开�
 ### 08. 查看并自定义键盘快捷键
 
 <p align="center">
-<img src="images/09-keyboard-shortcuts.webp" width="100%" alt="查看并自定义键盘快捷键">
+<img src="images/zh-Hans/09-keyboard-shortcuts.webp" width="100%" alt="查看并自定义键盘快捷键">
 </p>
 
 在一张表中查看菜单和快捷键，可改成任意按键，也可恢复默认值。把自己的设置保存为预设，随时都能再载入。
@@ -123,7 +123,7 @@ MIDI 文件（.mid、.midi、.rmi）里装的是音符，不是声音。打开�
 ### 09. 意外关闭后自动恢复未保存的工作
 
 <p align="center">
-<img src="images/10-autosave-recovery.webp" width="100%" alt="意外关闭后自动恢复未保存的工作">
+<img src="images/zh-Hans/10-autosave-recovery.webp" width="100%" alt="意外关闭后自动恢复未保存的工作">
 </p>
 
 工作时应用意外关闭也别慌。下次启动时，它会找到未保存的工作，询问你要打开、稍后决定还是丢弃。选择“稍后”，恢复文件会保留，下次启动时再次提示。

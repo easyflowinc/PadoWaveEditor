@@ -30,7 +30,7 @@ Enregistrements de voix, répétitions de chant, effets sonores pour vos vidéos
 [Obtenir sur le Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Guide complet et FAQ](https://easyflow.co.kr/F/Doc/PadoWaveEditor/fr) · [Version précédente (2.0)](v2.0/README_fr.md) · [Version précédente (1.0)](v1.0/README_fr.md)
 
 <p align="center">
-<img src="images/01-side-by-side-compare.webp" width="100%" alt="Ancrez deux fichiers côte à côte et lisez-les ou bouclez-les pendant la comparaison">
+<img src="images/fr/01-side-by-side-compare.webp" width="100%" alt="Ancrez deux fichiers côte à côte et lisez-les ou bouclez-les pendant la comparaison">
 </p>
 
 <p align="center"><i>Ancrez deux fichiers côte à côte et lisez-les ou bouclez-les pendant la comparaison</i></p>
@@ -59,7 +59,7 @@ Enregistrements de voix, répétitions de chant, effets sonores pour vos vidéos
 ### 01. Modifiez l’audio dans un espace clair avec des formes d’onde multicanales
 
 <p align="center">
-<img src="images/03-main-workspace.webp" width="100%" alt="Modifiez l’audio dans un espace clair avec des formes d’onde multicanales">
+<img src="images/fr/03-main-workspace.webp" width="100%" alt="Modifiez l’audio dans un espace clair avec des formes d’onde multicanales">
 </p>
 
 Modifiez dans la grande forme d’onde en haut et utilisez la bande d’aperçu en dessous pour savoir où vous êtes dans le fichier. Infos du fichier, position de lecture et longueur de la sélection restent toujours dans la barre d’infos juste sous la forme d’onde. Les longs fichiers affichent d’abord une forme d’onde rapide, puis complètent les détails : pas de longue attente.
@@ -67,7 +67,7 @@ Modifiez dans la grande forme d’onde en haut et utilisez la bande d’aperçu 
 ### 02. Sélectionnez et modifiez tous les canaux ensemble ou un canal à la fois
 
 <p align="center">
-<img src="images/05-channel-editing.webp" width="100%" alt="Sélectionnez et modifiez tous les canaux ensemble ou un canal à la fois">
+<img src="images/fr/05-channel-editing.webp" width="100%" alt="Sélectionnez et modifiez tous les canaux ensemble ou un canal à la fois">
 </p>
 
 En stéréo, sélectionnez les canaux gauche (haut) et droit (bas) ensemble, ou un seul. Supprimez un bruit présent d’un seul côté ou appliquez un fondu à un seul canal : les retouches fines deviennent faciles.
@@ -75,7 +75,7 @@ En stéréo, sélectionnez les canaux gauche (haut) et droit (bas) ensemble, ou 
 ### 03. Ouvrez des fichiers MIDI en forme d’onde, joués par la banque de sons intégrée
 
 <p align="center">
-<img src="images/02-midi-as-waveform.webp" width="100%" alt="Ouvrez des fichiers MIDI en forme d’onde, joués par la banque de sons intégrée">
+<img src="images/fr/02-midi-as-waveform.webp" width="100%" alt="Ouvrez des fichiers MIDI en forme d’onde, joués par la banque de sons intégrée">
 </p>
 
 Un fichier MIDI (.mid, .midi, .rmi) contient des notes, pas du son. Pado Wave Editor le joue avec la banque de sons intégrée (MuseScore General) et affiche le résultat en forme d’onde : coupez, ajoutez des effets et enregistrez en WAV ou MP3 comme n’importe quel audio. Vous préférez une autre banque SF2 ou SF3 ? Changez-la dans Options.
@@ -83,7 +83,7 @@ Un fichier MIDI (.mid, .midi, .rmi) contient des notes, pas du son. Pado Wave Ed
 ### 04. Ajustez et analysez le son avec des effets, filtres et outils d’analyse
 
 <p align="center">
-<img src="images/04-effects-analysis.webp" width="100%" alt="Ajustez et analysez le son avec des effets, filtres et outils d’analyse">
+<img src="images/fr/04-effects-analysis.webp" width="100%" alt="Ajustez et analysez le son avec des effets, filtres et outils d’analyse">
 </p>
 
 Appliquez égaliseur, filtres, compresseur, normalisation et plus encore à la seule sélection. Faites glisser les points du graphique pour façonner le son et enregistrez jusqu’à 10 réglages d’égaliseur pour les recharger plus tard.
@@ -91,7 +91,7 @@ Appliquez égaliseur, filtres, compresseur, normalisation et plus encore à la s
 ### 05. Naviguez à l’aide des régions, repères, calques et du spectrogramme
 
 <p align="center">
-<img src="images/06-panels.webp" width="100%" alt="Naviguez à l’aide des régions, repères, calques et du spectrogramme">
+<img src="images/fr/06-panels.webp" width="100%" alt="Naviguez à l’aide des régions, repères, calques et du spectrogramme">
 </p>
 
 Régions nommées et colorées, repères de position et calques qui activent ou désactivent un traitement pour comparer : vous gardez le cap même dans de longs fichiers. Le spectrogramme affiche le son en couleurs selon la fréquence, pour repérer bruits et clics à l’œil.
@@ -99,7 +99,7 @@ Régions nommées et colorées, repères de position et calques qui activent ou 
 ### 06. Créez des effets sonores à partir de centaines de préréglages basés sur des formules
 
 <p align="center">
-<img src="images/07-sfx-generator.webp" width="100%" alt="Créez des effets sonores à partir de centaines de préréglages basés sur des formules">
+<img src="images/fr/07-sfx-generator.webp" width="100%" alt="Créez des effets sonores à partir de centaines de préréglages basés sur des formules">
 </p>
 
 Parcourez des centaines de préréglages – lasers, explosions, alertes, même des instruments – ajustez fréquence, durée et décroissance et écoutez tout de suite. Enregistrez vos favoris comme préréglages perso. Idéal pour créer vos propres sons pour jeux et vidéos.
@@ -107,7 +107,7 @@ Parcourez des centaines de préréglages – lasers, explosions, alertes, même 
 ### 07. Glissez-déposez des fichiers audio pour les ouvrir dans de nouveaux onglets
 
 <p align="center">
-<img src="images/08-drag-and-drop.webp" width="100%" alt="Glissez-déposez des fichiers audio pour les ouvrir dans de nouveaux onglets">
+<img src="images/fr/08-drag-and-drop.webp" width="100%" alt="Glissez-déposez des fichiers audio pour les ouvrir dans de nouveaux onglets">
 </p>
 
 Faites simplement glisser des fichiers audio depuis l’Explorateur vers la fenêtre : chacun s’ouvre dans un nouvel onglet. Vous pouvez en déposer plusieurs à la fois.
@@ -115,7 +115,7 @@ Faites simplement glisser des fichiers audio depuis l’Explorateur vers la fen�
 ### 08. Consultez et personnalisez les raccourcis clavier
 
 <p align="center">
-<img src="images/09-keyboard-shortcuts.webp" width="100%" alt="Consultez et personnalisez les raccourcis clavier">
+<img src="images/fr/09-keyboard-shortcuts.webp" width="100%" alt="Consultez et personnalisez les raccourcis clavier">
 </p>
 
 Consultez menus et raccourcis dans un seul tableau, changez n’importe quelle touche ou rétablissez la valeur par défaut. Enregistrez votre configuration comme préréglage et rechargez-la quand vous voulez.
@@ -123,7 +123,7 @@ Consultez menus et raccourcis dans un seul tableau, changez n’importe quelle t
 ### 09. Récupérez automatiquement le travail non enregistré après une fermeture inattendue
 
 <p align="center">
-<img src="images/10-autosave-recovery.webp" width="100%" alt="Récupérez automatiquement le travail non enregistré après une fermeture inattendue">
+<img src="images/fr/10-autosave-recovery.webp" width="100%" alt="Récupérez automatiquement le travail non enregistré après une fermeture inattendue">
 </p>
 
 Si l’application se ferme de façon inattendue, pas de panique. Au prochain démarrage, elle retrouve votre travail non enregistré et vous demande de l’ouvrir, de décider plus tard ou de l’abandonner. Choisissez « plus tard » : les fichiers de récupération sont conservés et reproposés au démarrage suivant.

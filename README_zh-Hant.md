@@ -30,7 +30,7 @@
 [從 Microsoft Store 取得](https://apps.microsoft.com/detail/9nj5928hw9pw) · [詳細說明與常見問題](https://easyflow.co.kr/F/Doc/PadoWaveEditor/zh-Hant) · [上一版本（2.0）介紹](v2.0/README_zh-Hant.md) · [上一版本（1.0）介紹](v1.0/README_zh-Hant.md)
 
 <p align="center">
-<img src="images/01-side-by-side-compare.webp" width="100%" alt="將兩個檔案左右並排停駐，邊比較邊播放或循環播放">
+<img src="images/zh-Hant/01-side-by-side-compare.webp" width="100%" alt="將兩個檔案左右並排停駐，邊比較邊播放或循環播放">
 </p>
 
 <p align="center"><i>將兩個檔案左右並排停駐，邊比較邊播放或循環播放</i></p>
@@ -59,7 +59,7 @@
 ### 01. 在清楚的多聲道波形工作區中編輯音訊
 
 <p align="center">
-<img src="images/03-main-workspace.webp" width="100%" alt="在清楚的多聲道波形工作區中編輯音訊">
+<img src="images/zh-Hant/03-main-workspace.webp" width="100%" alt="在清楚的多聲道波形工作區中編輯音訊">
 </p>
 
 在上方的大波形中編輯，下方的概覽列讓你一眼看出目前位在整個檔案的哪裡。檔案資訊、播放位置和選取長度一直顯示在波形正下方的資訊列。長檔案也會先快速顯示波形，再補上細節，不必久等。
@@ -67,7 +67,7 @@
 ### 02. 同時編輯所有聲道，或逐一選取聲道進行精細編輯
 
 <p align="center">
-<img src="images/05-channel-editing.webp" width="100%" alt="同時編輯所有聲道，或逐一選取聲道進行精細編輯">
+<img src="images/zh-Hant/05-channel-editing.webp" width="100%" alt="同時編輯所有聲道，或逐一選取聲道進行精細編輯">
 </p>
 
 立體聲音訊可以同時選取左（上）右（下）兩個聲道，也可以只選其中一個。只清除一側的雜音，或只替一個聲道加淡入淡出，精細修改很輕鬆。
@@ -75,7 +75,7 @@
 ### 03. 以內建音色庫演奏 MIDI 檔案，並以波形開啟和編輯
 
 <p align="center">
-<img src="images/02-midi-as-waveform.webp" width="100%" alt="以內建音色庫演奏 MIDI 檔案，並以波形開啟和編輯">
+<img src="images/zh-Hant/02-midi-as-waveform.webp" width="100%" alt="以內建音色庫演奏 MIDI 檔案，並以波形開啟和編輯">
 </p>
 
 MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟後，應用程式以內建音色庫（MuseScore General）演奏並顯示為波形，你可以像一般音訊一樣剪下、加效果，並儲存為 WAV 或 MP3。更喜歡別的 SF2 或 SF3 音色庫？在「選項」中切換即可。
@@ -83,7 +83,7 @@ MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟�
 ### 04. 使用效果、濾波器與分析工具調整並檢查聲音
 
 <p align="center">
-<img src="images/04-effects-analysis.webp" width="100%" alt="使用效果、濾波器與分析工具調整並檢查聲音">
+<img src="images/zh-Hant/04-effects-analysis.webp" width="100%" alt="使用效果、濾波器與分析工具調整並檢查聲音">
 </p>
 
 等化器、濾波器、壓縮器、正規化等效果可以只套用到選取的片段。拖曳圖上的點來塑造聲音，等化器設定最多可儲存 10 組，之後再載入。
@@ -91,7 +91,7 @@ MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟�
 ### 05. 透過區域、提示點、圖層與頻譜圖面板快速定位
 
 <p align="center">
-<img src="images/06-panels.webp" width="100%" alt="透過區域、提示點、圖層與頻譜圖面板快速定位">
+<img src="images/zh-Hant/06-panels.webp" width="100%" alt="透過區域、提示點、圖層與頻譜圖面板快速定位">
 </p>
 
 可命名、可上色的區段，標記位置的提示點，可開關處理結果進行比較的圖層，讓你在長檔案中也不會迷路。頻譜圖以顏色依頻率顯示聲音，雜音和爆音一眼就能找到。
@@ -99,7 +99,7 @@ MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟�
 ### 06. 使用數百個以公式為基礎的預設產生音效
 
 <p align="center">
-<img src="images/07-sfx-generator.webp" width="100%" alt="使用數百個以公式為基礎的預設產生音效">
+<img src="images/zh-Hant/07-sfx-generator.webp" width="100%" alt="使用數百個以公式為基礎的預設產生音效">
 </p>
 
 搜尋數百個預設——雷射、爆炸、提示音，甚至樂器聲——調整頻率、長度、衰減等參數並立即試聽。喜歡的設定可以儲存為「我的預設」。非常適合替遊戲和影片自製音效。
@@ -107,7 +107,7 @@ MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟�
 ### 07. 將音訊檔案拖放到編輯器中，在新分頁中開啟
 
 <p align="center">
-<img src="images/08-drag-and-drop.webp" width="100%" alt="將音訊檔案拖放到編輯器中，在新分頁中開啟">
+<img src="images/zh-Hant/08-drag-and-drop.webp" width="100%" alt="將音訊檔案拖放到編輯器中，在新分頁中開啟">
 </p>
 
 只要把音訊檔案從檔案總管拖到視窗上，每個檔案都會在新分頁中開啟。也可以一次拖入多個檔案。
@@ -115,7 +115,7 @@ MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟�
 ### 08. 檢視並自訂鍵盤快速鍵
 
 <p align="center">
-<img src="images/09-keyboard-shortcuts.webp" width="100%" alt="檢視並自訂鍵盤快速鍵">
+<img src="images/zh-Hant/09-keyboard-shortcuts.webp" width="100%" alt="檢視並自訂鍵盤快速鍵">
 </p>
 
 在一張表中查看選單和快速鍵，可改成任意按鍵，也可還原預設值。把自己的設定儲存為預設，隨時都能再載入。
@@ -123,7 +123,7 @@ MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟�
 ### 09. 意外關閉後自動復原未儲存的工作
 
 <p align="center">
-<img src="images/10-autosave-recovery.webp" width="100%" alt="意外關閉後自動復原未儲存的工作">
+<img src="images/zh-Hant/10-autosave-recovery.webp" width="100%" alt="意外關閉後自動復原未儲存的工作">
 </p>
 
 工作時應用程式意外關閉也別慌。下次啟動時，它會找到未儲存的工作，詢問你要開啟、稍後決定還是捨棄。選擇「稍後」，復原檔案會保留，下次啟動時再次提醒。

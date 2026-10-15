@@ -30,7 +30,7 @@ Sprachaufnahmen, Gesangsübungen, Soundeffekte für deine Videos – zieh eine D
 [Im Microsoft Store holen](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Ausführliche Anleitung und FAQ](https://easyflow.co.kr/F/Doc/PadoWaveEditor/de) · [Vorversion (2.0)](v2.0/README_de.md) · [Vorversion (1.0)](v1.0/README_de.md)
 
 <p align="center">
-<img src="images/01-side-by-side-compare.webp" width="100%" alt="Zwei Dateien nebeneinander andocken und beim Vergleichen abspielen oder in Schleife wiedergeben">
+<img src="images/de/01-side-by-side-compare.webp" width="100%" alt="Zwei Dateien nebeneinander andocken und beim Vergleichen abspielen oder in Schleife wiedergeben">
 </p>
 
 <p align="center"><i>Zwei Dateien nebeneinander andocken und beim Vergleichen abspielen oder in Schleife wiedergeben</i></p>
@@ -59,7 +59,7 @@ Sprachaufnahmen, Gesangsübungen, Soundeffekte für deine Videos – zieh eine D
 ### 01. Audio in einem übersichtlichen Arbeitsbereich mit Mehrkanal-Wellenformen bearbeiten
 
 <p align="center">
-<img src="images/03-main-workspace.webp" width="100%" alt="Audio in einem übersichtlichen Arbeitsbereich mit Mehrkanal-Wellenformen bearbeiten">
+<img src="images/de/03-main-workspace.webp" width="100%" alt="Audio in einem übersichtlichen Arbeitsbereich mit Mehrkanal-Wellenformen bearbeiten">
 </p>
 
 Bearbeite in der großen Wellenform oben und sieh im Übersichtsstreifen darunter, wo du dich in der ganzen Datei befindest. Dateiinfos, Wiedergabeposition und Auswahllänge stehen immer in der Infoleiste direkt unter der Wellenform. Lange Dateien zeigen zuerst schnell eine Wellenform und ergänzen die Details danach – langes Warten entfällt.
@@ -67,7 +67,7 @@ Bearbeite in der großen Wellenform oben und sieh im Übersichtsstreifen darunte
 ### 02. Alle Kanäle gemeinsam oder einzelne Kanäle gezielt auswählen und bearbeiten
 
 <p align="center">
-<img src="images/05-channel-editing.webp" width="100%" alt="Alle Kanäle gemeinsam oder einzelne Kanäle gezielt auswählen und bearbeiten">
+<img src="images/de/05-channel-editing.webp" width="100%" alt="Alle Kanäle gemeinsam oder einzelne Kanäle gezielt auswählen und bearbeiten">
 </p>
 
 Bei Stereo kannst du den linken (oben) und rechten (unten) Kanal zusammen oder nur einen davon auswählen. Rauschen entfernen, das nur auf einer Seite ist, oder nur einen Kanal ausblenden – feine Korrekturen sind ganz einfach.
@@ -75,7 +75,7 @@ Bei Stereo kannst du den linken (oben) und rechten (unten) Kanal zusammen oder n
 ### 03. MIDI-Dateien mit dem integrierten Soundfont abspielen und als Wellenform öffnen
 
 <p align="center">
-<img src="images/02-midi-as-waveform.webp" width="100%" alt="MIDI-Dateien mit dem integrierten Soundfont abspielen und als Wellenform öffnen">
+<img src="images/de/02-midi-as-waveform.webp" width="100%" alt="MIDI-Dateien mit dem integrierten Soundfont abspielen und als Wellenform öffnen">
 </p>
 
 Eine MIDI-Datei (.mid, .midi, .rmi) enthält Noten, keinen Klang. Pado Wave Editor spielt sie mit dem integrierten Soundfont (MuseScore General) ab und zeigt das Ergebnis als Wellenform – schneiden, Effekte hinzufügen und als WAV oder MP3 speichern wie bei jedem Audio. Lieber einen anderen SF2- oder SF3-Soundfont? In den Optionen umschalten.
@@ -83,7 +83,7 @@ Eine MIDI-Datei (.mid, .midi, .rmi) enthält Noten, keinen Klang. Pado Wave Edit
 ### 04. Klang mit Effekten, Filtern und Analysewerkzeugen gestalten und prüfen
 
 <p align="center">
-<img src="images/04-effects-analysis.webp" width="100%" alt="Klang mit Effekten, Filtern und Analysewerkzeugen gestalten und prüfen">
+<img src="images/de/04-effects-analysis.webp" width="100%" alt="Klang mit Effekten, Filtern und Analysewerkzeugen gestalten und prüfen">
 </p>
 
 Equalizer, Filter, Kompressor, Normalisieren und mehr nur auf den ausgewählten Bereich anwenden. Punkte in der Grafik ziehen, um den Klang zu formen, und bis zu 10 Equalizer-Einstellungen speichern und später wieder laden.
@@ -91,7 +91,7 @@ Equalizer, Filter, Kompressor, Normalisieren und mehr nur auf den ausgewählten 
 ### 05. Mit Regionen, Cue-Marken, Ebenen und dem Spektrogramm schnell navigieren
 
 <p align="center">
-<img src="images/06-panels.webp" width="100%" alt="Mit Regionen, Cue-Marken, Ebenen und dem Spektrogramm schnell navigieren">
+<img src="images/de/06-panels.webp" width="100%" alt="Mit Regionen, Cue-Marken, Ebenen und dem Spektrogramm schnell navigieren">
 </p>
 
 Benannte, farbige Regionen, Cue-Marken für Positionen und Ebenen, mit denen du Bearbeitungen zum Vergleichen ein- und ausschaltest, sorgen auch in langen Dateien für Überblick. Das Spektrogramm zeigt Klang als Farben nach Frequenz – Rauschen und Knackser springen sofort ins Auge.
@@ -99,7 +99,7 @@ Benannte, farbige Regionen, Cue-Marken für Positionen und Ebenen, mit denen du 
 ### 06. Soundeffekte aus Hunderten formelbasierter Vorlagen erzeugen
 
 <p align="center">
-<img src="images/07-sfx-generator.webp" width="100%" alt="Soundeffekte aus Hunderten formelbasierter Vorlagen erzeugen">
+<img src="images/de/07-sfx-generator.webp" width="100%" alt="Soundeffekte aus Hunderten formelbasierter Vorlagen erzeugen">
 </p>
 
 Hunderte Presets durchsuchen – Laser, Explosionen, Alarme, sogar Instrumente – dann Frequenz, Länge und Abklingen anpassen und sofort anhören. Lieblings-Einstellungen als eigene Presets speichern. Perfekt, um eigene Sounds für Games und Videos zu bauen.
@@ -107,7 +107,7 @@ Hunderte Presets durchsuchen – Laser, Explosionen, Alarme, sogar Instrumente �
 ### 07. Audiodateien per Drag & Drop in neuen Tabs öffnen
 
 <p align="center">
-<img src="images/08-drag-and-drop.webp" width="100%" alt="Audiodateien per Drag & Drop in neuen Tabs öffnen">
+<img src="images/de/08-drag-and-drop.webp" width="100%" alt="Audiodateien per Drag & Drop in neuen Tabs öffnen">
 </p>
 
 Zieh Audiodateien einfach aus dem Explorer ins Fenster – jede öffnet sich in einem neuen Tab. Mehrere Dateien auf einmal gehen auch.
@@ -115,7 +115,7 @@ Zieh Audiodateien einfach aus dem Explorer ins Fenster – jede öffnet sich in 
 ### 08. Tastenkombinationen anzeigen und anpassen
 
 <p align="center">
-<img src="images/09-keyboard-shortcuts.webp" width="100%" alt="Tastenkombinationen anzeigen und anpassen">
+<img src="images/de/09-keyboard-shortcuts.webp" width="100%" alt="Tastenkombinationen anzeigen und anpassen">
 </p>
 
 Menüs und Tastenkürzel in einer Tabelle sehen, jede Taste ändern oder den Standard wiederherstellen. Dein Setup als Preset speichern und jederzeit wieder laden.
@@ -123,7 +123,7 @@ Menüs und Tastenkürzel in einer Tabelle sehen, jede Taste ändern oder den Sta
 ### 09. Nicht gespeicherte Arbeit nach einem unerwarteten Beenden automatisch wiederherstellen
 
 <p align="center">
-<img src="images/10-autosave-recovery.webp" width="100%" alt="Nicht gespeicherte Arbeit nach einem unerwarteten Beenden automatisch wiederherstellen">
+<img src="images/de/10-autosave-recovery.webp" width="100%" alt="Nicht gespeicherte Arbeit nach einem unerwarteten Beenden automatisch wiederherstellen">
 </p>
 
 Wenn die App unerwartet schließt: keine Panik. Beim nächsten Start findet sie deine ungespeicherte Arbeit und fragt, ob du sie öffnen, später entscheiden oder verwerfen willst. Wählst du „später“, bleiben die Wiederherstellungsdateien erhalten und werden beim nächsten Start erneut angeboten.

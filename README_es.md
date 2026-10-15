@@ -30,7 +30,7 @@ Grabaciones de voz, prácticas de canto, efectos de sonido para tus vídeos: arr
 [Consíguelo en Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Guía completa y preguntas frecuentes](https://easyflow.co.kr/F/Doc/PadoWaveEditor/es) · [Versión anterior (2.0)](v2.0/README_es.md) · [Versión anterior (1.0)](v1.0/README_es.md)
 
 <p align="center">
-<img src="images/01-side-by-side-compare.webp" width="100%" alt="Acopla dos archivos lado a lado y reprodúcelos o repítelos en bucle mientras los comparas">
+<img src="images/es/01-side-by-side-compare.webp" width="100%" alt="Acopla dos archivos lado a lado y reprodúcelos o repítelos en bucle mientras los comparas">
 </p>
 
 <p align="center"><i>Acopla dos archivos lado a lado y reprodúcelos o repítelos en bucle mientras los comparas</i></p>
@@ -59,7 +59,7 @@ Grabaciones de voz, prácticas de canto, efectos de sonido para tus vídeos: arr
 ### 01. Edita audio en un espacio de trabajo claro con formas de onda multicanal
 
 <p align="center">
-<img src="images/03-main-workspace.webp" width="100%" alt="Edita audio en un espacio de trabajo claro con formas de onda multicanal">
+<img src="images/es/03-main-workspace.webp" width="100%" alt="Edita audio en un espacio de trabajo claro con formas de onda multicanal">
 </p>
 
 Edita en la gran forma de onda de arriba y usa la franja de vista general de abajo para saber en qué parte del archivo estás. La información del archivo, la posición de reproducción y la duración de la selección están siempre en la barra de información justo debajo de la forma de onda. Los archivos largos muestran primero una forma de onda rápida y luego completan el detalle, así que no esperas.
@@ -67,7 +67,7 @@ Edita en la gran forma de onda de arriba y usa la franja de vista general de aba
 ### 02. Selecciona y edita todos los canales juntos o de uno en uno
 
 <p align="center">
-<img src="images/05-channel-editing.webp" width="100%" alt="Selecciona y edita todos los canales juntos o de uno en uno">
+<img src="images/es/05-channel-editing.webp" width="100%" alt="Selecciona y edita todos los canales juntos o de uno en uno">
 </p>
 
 Con audio estéreo puedes seleccionar los canales izquierdo (arriba) y derecho (abajo) a la vez, o solo uno. Quita un ruido que solo está en un lado o aplica un fundido a un único canal: los retoques finos son fáciles.
@@ -75,7 +75,7 @@ Con audio estéreo puedes seleccionar los canales izquierdo (arriba) y derecho (
 ### 03. Abre archivos MIDI como formas de onda interpretadas con el banco de sonidos integrado
 
 <p align="center">
-<img src="images/02-midi-as-waveform.webp" width="100%" alt="Abre archivos MIDI como formas de onda interpretadas con el banco de sonidos integrado">
+<img src="images/es/02-midi-as-waveform.webp" width="100%" alt="Abre archivos MIDI como formas de onda interpretadas con el banco de sonidos integrado">
 </p>
 
 Un archivo MIDI (.mid, .midi, .rmi) contiene notas, no sonido. Pado Wave Editor lo reproduce con el banco de sonidos integrado (MuseScore General) y muestra el resultado como forma de onda, para que lo cortes, le añadas efectos y lo guardes en WAV o MP3 como cualquier audio. ¿Prefieres otro banco SF2 o SF3? Cámbialo en Opciones.
@@ -83,7 +83,7 @@ Un archivo MIDI (.mid, .midi, .rmi) contiene notas, no sonido. Pado Wave Editor 
 ### 04. Ajusta y analiza el sonido con efectos, filtros y herramientas de análisis
 
 <p align="center">
-<img src="images/04-effects-analysis.webp" width="100%" alt="Ajusta y analiza el sonido con efectos, filtros y herramientas de análisis">
+<img src="images/es/04-effects-analysis.webp" width="100%" alt="Ajusta y analiza el sonido con efectos, filtros y herramientas de análisis">
 </p>
 
 Aplica ecualizador, filtros, compresor, normalizar y más solo a la parte seleccionada. Arrastra los puntos del gráfico para moldear el sonido y guarda hasta 10 ajustes del ecualizador para cargarlos después.
@@ -91,7 +91,7 @@ Aplica ecualizador, filtros, compresor, normalizar y más solo a la parte selecc
 ### 05. Navega con regiones, marcadores, capas y el panel de espectrograma
 
 <p align="center">
-<img src="images/06-panels.webp" width="100%" alt="Navega con regiones, marcadores, capas y el panel de espectrograma">
+<img src="images/es/06-panels.webp" width="100%" alt="Navega con regiones, marcadores, capas y el panel de espectrograma">
 </p>
 
 Regiones con nombre y color, marcadores de posición y capas que activan y desactivan un procesamiento para comparar te mantienen orientado incluso en archivos largos. El espectrograma muestra el sonido en colores por frecuencia, para detectar ruidos y chasquidos a simple vista.
@@ -99,7 +99,7 @@ Regiones con nombre y color, marcadores de posición y capas que activan y desac
 ### 06. Crea efectos de sonido con cientos de preajustes basados en fórmulas
 
 <p align="center">
-<img src="images/07-sfx-generator.webp" width="100%" alt="Crea efectos de sonido con cientos de preajustes basados en fórmulas">
+<img src="images/es/07-sfx-generator.webp" width="100%" alt="Crea efectos de sonido con cientos de preajustes basados en fórmulas">
 </p>
 
 Busca entre cientos de preajustes —láseres, explosiones, alertas e incluso instrumentos—, ajusta frecuencia, duración y caída y escucha el resultado al momento. Guarda tus favoritos como preajustes propios. Perfecto para crear tus propios sonidos para juegos y vídeos.
@@ -107,7 +107,7 @@ Busca entre cientos de preajustes —láseres, explosiones, alertas e incluso in
 ### 07. Arrastra archivos de audio al editor para abrirlos en pestañas nuevas
 
 <p align="center">
-<img src="images/08-drag-and-drop.webp" width="100%" alt="Arrastra archivos de audio al editor para abrirlos en pestañas nuevas">
+<img src="images/es/08-drag-and-drop.webp" width="100%" alt="Arrastra archivos de audio al editor para abrirlos en pestañas nuevas">
 </p>
 
 Solo arrastra archivos de audio desde el Explorador a la ventana y cada uno se abre en una pestaña nueva. Puedes soltar varios a la vez.
@@ -115,7 +115,7 @@ Solo arrastra archivos de audio desde el Explorador a la ventana y cada uno se a
 ### 08. Consulta y personaliza los atajos de teclado
 
 <p align="center">
-<img src="images/09-keyboard-shortcuts.webp" width="100%" alt="Consulta y personaliza los atajos de teclado">
+<img src="images/es/09-keyboard-shortcuts.webp" width="100%" alt="Consulta y personaliza los atajos de teclado">
 </p>
 
 Consulta menús y atajos en una sola tabla, cambia cualquier tecla o restaura el valor predeterminado. Guarda tu configuración como preajuste y cárgala cuando quieras.
@@ -123,7 +123,7 @@ Consulta menús y atajos en una sola tabla, cambia cualquier tecla o restaura el
 ### 09. Recupera automáticamente el trabajo sin guardar tras un cierre inesperado
 
 <p align="center">
-<img src="images/10-autosave-recovery.webp" width="100%" alt="Recupera automáticamente el trabajo sin guardar tras un cierre inesperado">
+<img src="images/es/10-autosave-recovery.webp" width="100%" alt="Recupera automáticamente el trabajo sin guardar tras un cierre inesperado">
 </p>
 
 Si la aplicación se cierra de golpe, tranquilo. La próxima vez que se abra encontrará tu trabajo sin guardar y te preguntará si quieres abrirlo, decidir más tarde o descartarlo. Si eliges más tarde, los archivos de recuperación se conservan y se vuelven a ofrecer en el siguiente inicio.

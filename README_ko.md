@@ -30,7 +30,7 @@
 [Microsoft Store에서 받기](https://apps.microsoft.com/detail/9nj5928hw9pw) · [자세한 설명과 자주 묻는 질문](https://easyflow.co.kr/F/Doc/PadoWaveEditor/ko) · [이전 버전(2.0) 소개 보기](v2.0/README_ko.md) · [이전 버전(1.0) 소개 보기](v1.0/README_ko.md)
 
 <p align="center">
-<img src="images/01-side-by-side-compare.webp" width="100%" alt="두 파일을 좌우로 나란히 도킹해 비교하며 재생·반복 재생">
+<img src="images/ko/01-side-by-side-compare.webp" width="100%" alt="두 파일을 좌우로 나란히 도킹해 비교하며 재생·반복 재생">
 </p>
 
 <p align="center"><i>두 파일을 좌우로 나란히 도킹해 비교하며 재생·반복 재생</i></p>
@@ -59,7 +59,7 @@
 ### 01. 멀티채널 파형을 한눈에 보며 오디오를 편집하는 메인 작업공간
 
 <p align="center">
-<img src="images/03-main-workspace.webp" width="100%" alt="멀티채널 파형을 한눈에 보며 오디오를 편집하는 메인 작업공간">
+<img src="images/ko/03-main-workspace.webp" width="100%" alt="멀티채널 파형을 한눈에 보며 오디오를 편집하는 메인 작업공간">
 </p>
 
 위쪽의 큰 파형에서 편집하고, 아래쪽 개요 막대로 파일 전체 중 어디를 보고 있는지 한눈에 알 수 있어요. 파일 정보, 재생 위치, 선택 길이는 파형 바로 아래 정보 줄에 늘 떠 있어요. 긴 파일도 파형을 먼저 빠르게 보여 주고 세부는 나중에 채워서 오래 기다릴 일이 없어요.
@@ -67,7 +67,7 @@
 ### 02. 전체 채널을 함께 또는 한 채널씩 선택해 정밀 편집
 
 <p align="center">
-<img src="images/05-channel-editing.webp" width="100%" alt="전체 채널을 함께 또는 한 채널씩 선택해 정밀 편집">
+<img src="images/ko/05-channel-editing.webp" width="100%" alt="전체 채널을 함께 또는 한 채널씩 선택해 정밀 편집">
 </p>
 
 스테레오라면 왼쪽(위)과 오른쪽(아래) 채널을 함께 고를 수도, 한쪽만 고를 수도 있어요. 한쪽에만 들어간 잡음을 지우거나 한 채널에만 페이드를 거는 식으로 섬세하게 손볼 수 있어요.
@@ -75,7 +75,7 @@
 ### 03. MIDI 파일을 기본 제공 음원으로 연주해 파형으로 열고 편집
 
 <p align="center">
-<img src="images/02-midi-as-waveform.webp" width="100%" alt="MIDI 파일을 기본 제공 음원으로 연주해 파형으로 열고 편집">
+<img src="images/ko/02-midi-as-waveform.webp" width="100%" alt="MIDI 파일을 기본 제공 음원으로 연주해 파형으로 열고 편집">
 </p>
 
 MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 있어요. 열면 기본 제공 음원(MuseScore General)으로 연주해 파형으로 보여 주니, 일반 오디오처럼 자르고 효과를 넣어 WAV나 MP3로 저장하면 돼요. 더 마음에 드는 SF2 · SF3 음원이 있으면 옵션에서 바꿀 수 있어요.
@@ -83,7 +83,7 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 ### 04. 효과, 필터 및 분석 도구로 소리를 조정하고 확인
 
 <p align="center">
-<img src="images/04-effects-analysis.webp" width="100%" alt="효과, 필터 및 분석 도구로 소리를 조정하고 확인">
+<img src="images/ko/04-effects-analysis.webp" width="100%" alt="효과, 필터 및 분석 도구로 소리를 조정하고 확인">
 </p>
 
 이퀄라이저, 필터, 컴프레서, 정규화 같은 효과를 고른 구간에만 걸 수 있어요. 그래프의 점을 끌어 소리를 바꾸고, 이퀄라이저 설정은 10개까지 저장해 두었다가 다시 불러올 수 있어요.
@@ -91,7 +91,7 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 ### 05. 리전, 큐, 레이어 및 스펙트로그램 패널로 빠르게 탐색
 
 <p align="center">
-<img src="images/06-panels.webp" width="100%" alt="리전, 큐, 레이어 및 스펙트로그램 패널로 빠르게 탐색">
+<img src="images/ko/06-panels.webp" width="100%" alt="리전, 큐, 레이어 및 스펙트로그램 패널로 빠르게 탐색">
 </p>
 
 이름과 색을 붙이는 리전, 위치를 표시하는 큐, 처리 결과를 켜고 끄며 비교하는 레이어 덕분에 긴 파일에서도 길을 잃지 않아요. 스펙트로그램은 소리를 주파수별 색으로 보여 줘서 잡음이나 튀는 소리를 눈으로 찾을 수 있어요.
@@ -99,7 +99,7 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 ### 06. 수백 가지 수식 기반 프리셋으로 만드는 효과음 생성기
 
 <p align="center">
-<img src="images/07-sfx-generator.webp" width="100%" alt="수백 가지 수식 기반 프리셋으로 만드는 효과음 생성기">
+<img src="images/ko/07-sfx-generator.webp" width="100%" alt="수백 가지 수식 기반 프리셋으로 만드는 효과음 생성기">
 </p>
 
 레이저, 폭발, 알림음, 악기 소리까지 수백 가지 프리셋을 검색해 고르고, 주파수 · 길이 · 감쇠 같은 값을 바꿔 바로 들어 볼 수 있어요. 마음에 든 설정은 '내 프리셋'으로 저장해요. 게임이나 영상에 넣을 효과음을 직접 만들 때 좋아요.
@@ -107,7 +107,7 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 ### 07. 오디오 파일을 끌어다 놓으면 새 탭으로 바로 열기
 
 <p align="center">
-<img src="images/08-drag-and-drop.webp" width="100%" alt="오디오 파일을 끌어다 놓으면 새 탭으로 바로 열기">
+<img src="images/ko/08-drag-and-drop.webp" width="100%" alt="오디오 파일을 끌어다 놓으면 새 탭으로 바로 열기">
 </p>
 
 탐색기에서 오디오 파일을 창으로 끌어다 놓기만 하면 각각 새 탭으로 열려요. 여러 파일을 한꺼번에 놓아도 돼요.
@@ -115,7 +115,7 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 ### 08. 키보드 단축키를 한곳에서 확인하고 원하는 대로 변경
 
 <p align="center">
-<img src="images/09-keyboard-shortcuts.webp" width="100%" alt="키보드 단축키를 한곳에서 확인하고 원하는 대로 변경">
+<img src="images/ko/09-keyboard-shortcuts.webp" width="100%" alt="키보드 단축키를 한곳에서 확인하고 원하는 대로 변경">
 </p>
 
 메뉴와 단축키를 한 표에서 보고, 원하는 키로 바꾸거나 기본값으로 되돌릴 수 있어요. 내 설정을 프리셋으로 저장해 두었다가 언제든 다시 불러올 수 있어요.
@@ -123,7 +123,7 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 ### 09. 예기치 않게 종료되어도 저장하지 않은 작업을 자동 복구
 
 <p align="center">
-<img src="images/10-autosave-recovery.webp" width="100%" alt="예기치 않게 종료되어도 저장하지 않은 작업을 자동 복구">
+<img src="images/ko/10-autosave-recovery.webp" width="100%" alt="예기치 않게 종료되어도 저장하지 않은 작업을 자동 복구">
 </p>
 
 작업 중에 앱이 갑자기 꺼져도 걱정 마세요. 다음에 켜면 저장하지 않은 작업을 찾아서 열지, 나중에 정할지, 버릴지 물어봐요. '나중에'를 고르면 복구 파일은 그대로 남아 다음 실행 때 다시 알려 줘요.
