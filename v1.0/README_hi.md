@@ -1,4 +1,4 @@
-> 📦 यह पेज **Pado Wave Editor 1.0** के बारे में है। नए 2.0 का परिचय [यहाँ](../README_hi.md) है।
+> 📦 यह पेज **Pado Wave Editor 1.0** के बारे में है। नए 2.1 का परिचय [यहाँ](../README_hi.md) है।
 
 🌐 **Languages**
 

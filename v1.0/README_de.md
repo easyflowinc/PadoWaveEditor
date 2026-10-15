@@ -1,4 +1,4 @@
-> 📦 Diese Seite beschreibt **Pado Wave Editor 1.0**. Die aktuelle 2.0-Übersicht findest du [hier](../README_de.md).
+> 📦 Diese Seite beschreibt **Pado Wave Editor 1.0**. Die aktuelle 2.1-Übersicht findest du [hier](../README_de.md).
 
 🌐 **Languages**
 

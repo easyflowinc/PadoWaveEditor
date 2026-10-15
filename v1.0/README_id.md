@@ -1,4 +1,4 @@
-> 📦 Halaman ini menjelaskan **Pado Wave Editor 1.0**. Ringkasan versi 2.0 ada [di sini](../README_id.md).
+> 📦 Halaman ini menjelaskan **Pado Wave Editor 1.0**. Ringkasan versi 2.1 ada [di sini](../README_id.md).
 
 🌐 **Languages**
 

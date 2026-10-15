@@ -1,4 +1,4 @@
-> 📦 Esta página apresenta o **Pado Wave Editor 1.0**. A apresentação da versão 2.0 está [aqui](../README_pt-BR.md).
+> 📦 Esta página apresenta o **Pado Wave Editor 1.0**. A apresentação da versão 2.1 está [aqui](../README_pt-BR.md).
 
 🌐 **Languages**
 

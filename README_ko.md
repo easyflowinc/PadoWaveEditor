@@ -16,10 +16,10 @@
 🇮🇩 [Bahasa Indonesia](README_id.md)
 
 <p align="center">
-    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.0 Logo">
+    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.1 Logo">
 </p>
 
-# Pado Wave Editor 2.0
+# Pado Wave Editor 2.1
 
 ### 소리를 눈으로 보면서 자르고, 붙이고, 다듬는 무료 오디오 편집기
 
@@ -27,7 +27,7 @@
 
 **무료** · **Windows 10 · 11** · **WAV · MP3 · FLAC · OGG · MIDI** · **14개 언어** · **라이트 · 다크 테마**
 
-[Microsoft Store에서 받기](https://apps.microsoft.com/detail/9nj5928hw9pw) · [자세한 설명과 자주 묻는 질문](https://easyflow.co.kr/F/Doc/PadoWaveEditor/ko) · [이전 버전(1.0) 소개 보기](v1.0/README_ko.md)
+[Microsoft Store에서 받기](https://apps.microsoft.com/detail/9nj5928hw9pw) · [자세한 설명과 자주 묻는 질문](https://easyflow.co.kr/F/Doc/PadoWaveEditor/ko) · [이전 버전(2.0) 소개 보기](v2.0/README_ko.md) · [이전 버전(1.0) 소개 보기](v1.0/README_ko.md)
 
 <p align="center">
 <img src="images/01-side-by-side-compare.webp" width="100%" alt="두 파일을 좌우로 나란히 도킹해 비교하며 재생·반복 재생">
@@ -130,21 +130,18 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 
 ---
 
-## 2.0에서 새로워진 것
+## 2.1에서 새로워진 것
 
-2.0은 일상적인 편집을 더 쉽고, 더 빠르고, 더 안전하게 만드는 데 집중한 대규모 업데이트입니다.
+- 열기·저장 대화상자: 검색 상자가 생겼고, 파일을 폴더보다 먼저 보여 줄 수 있으며, 파일 이름이 숫자 순서대로 정렬됩니다.
+- 재생할 때 화면이 재생 위치를 따라가는 방식(가운데 고정 또는 오른쪽 끝에서 다음 화면)을 고를 수 있습니다.
+- 파일 끝까지 재생한 뒤 다시 재생하면 처음부터 재생합니다.
+- 컴프레서로 더 자연스럽게 압축하고, 갑자기 튀는 소리도 놓치지 않도록 설정할 수 있습니다.
+- 긴 구간에 효과를 적용할 때 진행 상태가 보이고 중간에 취소할 수 있습니다.
+- 파형 표시, 악보 창, 복사·붙여넣기가 더 빨라졌습니다.
+- 숫자와 날짜가 Windows 지역 설정을 따르고, 오류·상태 메시지가 14개 언어로 표시됩니다.
+- 이퀄라이저, SFX 생성기 미리 듣기, 아랍어 화면 배치 등 여러 문제를 고쳤고, 앱 아이콘이 더 선명해졌습니다.
 
-- **MIDI 파일을 파형으로.** MIDI 파일(.mid)을 열면 기본 제공 음원으로 연주한 소리를 파형으로 보여 주며, 일반 오디오처럼 편집하고 WAV·MP3 등으로 저장할 수 있습니다.
-- **초보자를 위한 도움말.** 앱 내 도움말을 쉬운 말로 새로 썼습니다. 파일 열기, 원하는 구간 선택, 편집, 저장까지 순서대로 따라 할 수 있습니다.
-- **드래그 앤 드롭.** 오디오 파일을 창에 끌어다 놓기만 하면 바로 열립니다.
-- **더 많은 형식.** Ogg Vorbis(.ogg) 파일을 5.1, 7.1 서라운드까지 열고 저장할 수 있으며, FLAC은 이제 모든 Windows 에디션에서 동작합니다.
-- **사용자 정의 단축키.** 원하는 작업 방식에 맞게 단축키를 직접 지정할 수 있습니다.
-- **긴 파일과 긴 녹음도 매끄럽게.** 긴 파일을 열고 저장하는 속도가 눈에 띄게 빨라졌고, 녹음하는 동안 바로 기록해 긴 작업에서도 앱이 느려지지 않습니다.
-- **자동 파일 복구.** 앱이 예기치 않게 종료돼도 다음 실행 때 작업하던 내용을 되살립니다.
-- **USB 오디오 개선.** USB 마이크나 스피커를 연결하거나 교체할 때 더 안정적으로 인식합니다.
-- **SFX 생성기 사용자 프리셋 2세대.** 프리셋 수가 늘고 음질도 좋아졌습니다.
-- **새로워진 화면.** 툴바 아이콘을 더 간결하고 선명하게 다듬고, 라이트/다크 테마에 맞춰 테마 색을 다시 조정했습니다.
-- 앱 전반의 안정성과 신뢰성 개선.
+2.0에서는 MIDI 파일을 파형으로 열기, 끌어다 놓기, 모든 Windows 에디션에서 Ogg Vorbis·FLAC 지원, 키보드 단축키 변경, 자동 파일 복구, 긴 파일·긴 녹음 속도 개선, 새로워진 디자인이 추가되었습니다. [이전 버전(2.0) 소개 보기](v2.0/README_ko.md)
 
 ## 전체 기능 한눈에
 
@@ -172,6 +169,7 @@ MIDI 파일(.mid · .midi · .rmi)에는 소리가 아니라 음표가 들어 �
 - [Microsoft Store에서 받기](https://apps.microsoft.com/detail/9nj5928hw9pw)
 - **Releases**의 설치 프로그램을 실행해도 Microsoft Store가 열려 공식 버전이 설치됩니다.
 - [자세한 설명과 자주 묻는 질문](https://easyflow.co.kr/F/Doc/PadoWaveEditor/ko)
+- [이전 버전(2.0) 소개 보기](v2.0/README_ko.md)
 - [이전 버전(1.0) 소개 보기](v1.0/README_ko.md)
 
 © 2026 Easyflow Inc.

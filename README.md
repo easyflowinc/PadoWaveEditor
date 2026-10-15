@@ -16,10 +16,10 @@
 🇮🇩 [Bahasa Indonesia](README_id.md)
 
 <p align="center">
-    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.0 Logo">
+    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.1 Logo">
 </p>
 
-# Pado Wave Editor 2.0
+# Pado Wave Editor 2.1
 
 ### A free audio editor where you see your sound — then cut, paste and polish it
 
@@ -27,7 +27,7 @@ Voice recordings, singing practice, sound effects for your videos — drop a fil
 
 **Free** · **Windows 10 · 11** · **WAV · MP3 · FLAC · OGG · MIDI** · **14 languages** · **Light & dark themes**
 
-[Get it from the Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Full guide and FAQ](https://easyflow.co.kr/F/Doc/PadoWaveEditor/en) · [About the previous version (1.0)](v1.0/README.md)
+[Get it from the Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Full guide and FAQ](https://easyflow.co.kr/F/Doc/PadoWaveEditor/en) · [About the previous version (2.0)](v2.0/README.md) · [About the previous version (1.0)](v1.0/README.md)
 
 <p align="center">
 <img src="images/01-side-by-side-compare.webp" width="100%" alt="Dock two files side by side and play or loop them while you compare">
@@ -130,21 +130,18 @@ If the app closes unexpectedly, don't panic. The next time it starts, it finds y
 
 ---
 
-## What's new in 2.0
+## What's new in 2.1
 
-Version 2.0 is a major update focused on making everyday editing easier, faster, and more dependable.
+- Open and Save dialogs: a new Search box, a Files first option and file names sorted in numeric order.
+- Choose how the view follows playback: keep the playhead centered or turn to the next page at the right edge.
+- Pressing Play after the end of the file starts again from the beginning.
+- The compressor can compress more smoothly and catch sudden loud sounds.
+- Effects on long selections show their progress and can be cancelled.
+- Faster waveform display, Score window and copy and paste.
+- Numbers and dates follow your Windows regional format, and error and status messages appear in all 14 languages.
+- Fixes for the equalizer, the SFX Generator preview, the Arabic layout and more, plus sharper app icons.
 
-- **MIDI files as waveforms.** Open a MIDI file (.mid) and the built-in sound font plays it into a waveform you can edit like any audio and save as WAV, MP3 and more.
-- **Beginner-friendly help.** The in-app help is rewritten in plain language and walks you step by step through opening a file, selecting a part, editing it, and saving.
-- **Drag and drop.** Drop audio files straight onto the window to open them.
-- **More formats.** Open and save Ogg Vorbis (.ogg) files, including 5.1 and 7.1 surround, and FLAC now works on every edition of Windows.
-- **Custom keyboard shortcuts.** Reassign shortcuts to match the way you work.
-- **Long files and long recordings.** Long files open and save much faster, and audio is written as you record, so the app stays responsive in long sessions.
-- **Automatic file recovery.** If the app closes unexpectedly, your work is restored the next time you open it.
-- **Better USB audio.** Connecting or swapping a USB microphone or speaker is detected more reliably.
-- **SFX Generator user presets, second generation.** More presets and better sound quality from each one.
-- **A refreshed look.** Cleaner, sharper toolbar icons, and theme colors retuned for both light and dark modes.
-- Broad stability and reliability improvements across the whole app.
+Version 2.0 brought MIDI files as waveforms, drag and drop, Ogg Vorbis and FLAC on every edition of Windows, custom keyboard shortcuts, automatic file recovery, faster long files and recordings, and a refreshed look. [About the previous version (2.0)](v2.0/README.md)
 
 ## All features at a glance
 
@@ -172,6 +169,7 @@ Supported formats: WAV, AIFF, FLAC, Ogg Vorbis, MP3, WMA. MP3 and WMA use the Wi
 - [Get it from the Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw)
 - Running the installer from **Releases** also opens the Microsoft Store and installs the official version.
 - [Full guide and FAQ](https://easyflow.co.kr/F/Doc/PadoWaveEditor/en)
+- [About the previous version (2.0)](v2.0/README.md)
 - [About the previous version (1.0)](v1.0/README.md)
 
 © 2026 Easyflow Inc.

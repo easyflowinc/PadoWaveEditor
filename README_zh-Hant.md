@@ -16,10 +16,10 @@
 🇮🇩 [Bahasa Indonesia](README_id.md)
 
 <p align="center">
-    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.0 Logo">
+    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.1 Logo">
 </p>
 
-# Pado Wave Editor 2.0
+# Pado Wave Editor 2.1
 
 ### 一邊看著聲音，一邊剪下、貼上、修飾——免費的音訊編輯器
 
@@ -27,7 +27,7 @@
 
 **免費** · **Windows 10 · 11** · **WAV · MP3 · FLAC · OGG · MIDI** · **14 種語言** · **淺色/深色主題**
 
-[從 Microsoft Store 取得](https://apps.microsoft.com/detail/9nj5928hw9pw) · [詳細說明與常見問題](https://easyflow.co.kr/F/Doc/PadoWaveEditor/zh-Hant) · [上一版本（1.0）介紹](v1.0/README_zh-Hant.md)
+[從 Microsoft Store 取得](https://apps.microsoft.com/detail/9nj5928hw9pw) · [詳細說明與常見問題](https://easyflow.co.kr/F/Doc/PadoWaveEditor/zh-Hant) · [上一版本（2.0）介紹](v2.0/README_zh-Hant.md) · [上一版本（1.0）介紹](v1.0/README_zh-Hant.md)
 
 <p align="center">
 <img src="images/01-side-by-side-compare.webp" width="100%" alt="將兩個檔案左右並排停駐，邊比較邊播放或循環播放">
@@ -130,21 +130,18 @@ MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟�
 
 ---
 
-## 2.0 新功能
+## 2.1 新功能
 
-2.0 是一次重要更新，讓日常編輯更簡單、更快速、更可靠。
+- 開啟與儲存對話方塊：新增搜尋方塊，可將檔案顯示在資料夾上方，檔案名稱依數字順序排序。
+- 可選擇播放時檢視跟隨播放位置的方式：播放頭置中，或到右邊緣時翻到下一頁。
+- 播放到檔案結尾後再次播放，會從頭開始。
+- 壓縮器可設定為壓縮更自然，而且不會漏掉突然變大的聲音。
+- 對較長範圍套用效果時會顯示進度，並可中途取消。
+- 波形顯示、樂譜視窗以及複製和貼上速度更快。
+- 數字和日期遵循 Windows 地區設定，錯誤和狀態訊息以 14 種語言顯示。
+- 修正了等化器、SFX 產生器預覽、阿拉伯文介面配置等問題，應用程式圖示也更加清晰。
 
-- **MIDI 檔案變波形。** 開啟 MIDI 檔案（.mid）時，應用程式以內建音色庫演奏並以波形顯示，可像一般音訊一樣編輯，並儲存為 WAV、MP3 等格式。
-- **適合新手的說明。** 應用程式內說明以淺白語言重寫，逐步引導您開啟檔案、選取片段、編輯與儲存。
-- **拖放開啟。** 將音訊檔案直接拖曳到視窗即可開啟。
-- **更多格式。** 可以開啟和儲存 Ogg Vorbis (.ogg) 檔案，包括 5.1 與 7.1 環繞音效；FLAC 現在可在所有 Windows 版本上使用。
-- **自訂快速鍵。** 可依照自己的使用習慣重新指定快速鍵。
-- **長檔案與長時間錄音更流暢。** 開啟和儲存長檔案明顯更快，錄音時即時寫入磁碟，長時間作業也不會變慢。
-- **自動檔案復原。** 應用程式意外關閉後，下次啟動時可復原您的工作內容。
-- **USB 音訊改進。** 連接或更換 USB 麥克風與喇叭時辨識更穩定。
-- **SFX產生器使用者預設集第二代。** 預設集數量更多，音質更好。
-- **全新外觀。** 工具列圖示更簡潔清晰，佈景主題配色針對淺色與深色模式重新調校。
-- 全面提升應用程式的穩定性與可靠性。
+版本 2.0 新增了以波形開啟 MIDI 檔案、拖放開啟、在所有 Windows 版本上支援 Ogg Vorbis 和 FLAC、自訂鍵盤快速鍵、自動復原檔案、更快處理長檔案和長時間錄音，以及全新外觀。 [上一版本（2.0）介紹](v2.0/README_zh-Hant.md)
 
 ## 全部功能一覽
 
@@ -172,6 +169,7 @@ MIDI 檔案（.mid、.midi、.rmi）裡裝的是音符，不是聲音。開啟�
 - [從 Microsoft Store 取得](https://apps.microsoft.com/detail/9nj5928hw9pw)
 - 執行 **Releases** 中的安裝程式也會開啟 Microsoft Store 並安裝官方版本。
 - [詳細說明與常見問題](https://easyflow.co.kr/F/Doc/PadoWaveEditor/zh-Hant)
+- [上一版本（2.0）介紹](v2.0/README_zh-Hant.md)
 - [上一版本（1.0）介紹](v1.0/README_zh-Hant.md)
 
 © 2026 Easyflow Inc.

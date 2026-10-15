@@ -16,10 +16,10 @@
 🇮🇩 [Bahasa Indonesia](README_id.md)
 
 <p align="center">
-    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.0 Logo">
+    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.1 Logo">
 </p>
 
-# Pado Wave Editor 2.0
+# Pado Wave Editor 2.1
 
 ### Um editor de áudio gratuito em que vê o seu som — e o corta, cola e aperfeiçoa
 
@@ -27,7 +27,7 @@ Gravações de voz, ensaios de canto, efeitos sonoros para os seus vídeos: arra
 
 **Gratuito** · **Windows 10 · 11** · **WAV · MP3 · FLAC · OGG · MIDI** · **14 idiomas** · **Tema claro e escuro**
 
-[Obter na Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Guia completo e perguntas frequentes](https://easyflow.co.kr/F/Doc/PadoWaveEditor/pt-PT) · [Versão anterior (1.0)](v1.0/README_pt-PT.md)
+[Obter na Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Guia completo e perguntas frequentes](https://easyflow.co.kr/F/Doc/PadoWaveEditor/pt-PT) · [Versão anterior (2.0)](v2.0/README_pt-PT.md) · [Versão anterior (1.0)](v1.0/README_pt-PT.md)
 
 <p align="center">
 <img src="images/01-side-by-side-compare.webp" width="100%" alt="Acople dois ficheiros lado a lado e reproduza ou repita em ciclo enquanto compara">
@@ -130,21 +130,18 @@ Se a aplicação fechar de repente, não se preocupe. Da próxima vez que abrir,
 
 ---
 
-## Novidades da 2.0
+## Novidades da 2.1
 
-A versão 2.0 é uma grande atualização que torna a edição do dia a dia mais simples, mais rápida e mais fiável.
+- Caixas de diálogo Abrir e Guardar: nova caixa Pesquisar, opção Ficheiros primeiro e nomes de ficheiro por ordem numérica.
+- Escolha como a vista acompanha a reprodução: com o cursor centrado ou a passar para a página seguinte no limite direito.
+- Ao reproduzir de novo depois do fim do ficheiro, a reprodução recomeça do início.
+- O compressor pode comprimir de forma mais suave e não deixar passar sons altos repentinos.
+- Os efeitos em seleções longas mostram o progresso e podem ser cancelados.
+- Apresentação da forma de onda, janela Partitura e copiar e colar mais rápidos.
+- Os números e as datas seguem o formato regional do Windows, e as mensagens de erro e de estado aparecem nos 14 idiomas.
+- Correções no equalizador, na pré-visualização do Gerador de SFX, no esquema em árabe e mais, além de ícones mais nítidos.
 
-- **MIDI como forma de onda.** Ao abrir um ficheiro MIDI (.mid), o banco de sons integrado reprodu-lo como forma de onda editável, que pode guardar em WAV, MP3 e outros.
-- **Ajuda para principiantes.** A ajuda da aplicação foi reescrita em linguagem simples e acompanha-o passo a passo para abrir um ficheiro, selecionar um trecho, editar e guardar.
-- **Arrastar e largar.** Largue os ficheiros de áudio sobre a janela para os abrir.
-- **Mais formatos.** Abra e guarde ficheiros Ogg Vorbis (.ogg), incluindo som surround 5.1 e 7.1, e o FLAC funciona agora em todas as edições do Windows.
-- **Atalhos de teclado personalizáveis.** Reatribua os atalhos à sua forma de trabalhar.
-- **Ficheiros e gravações longos.** Abrir e guardar ficheiros longos é bastante mais rápido, e o áudio é escrito durante a captação, mantendo a aplicação fluida.
-- **Recuperação automática de ficheiros.** Se a aplicação fechar inesperadamente, o seu trabalho é reposto na abertura seguinte.
-- **Áudio USB melhorado.** A ligação ou a troca de microfones e altifalantes USB é detetada de forma mais fiável.
-- **Predefinições de utilizador do gerador SFX, segunda geração.** Mais predefinições e melhor qualidade de som.
-- **Aspeto renovado.** Ícones da barra de ferramentas mais limpos e nítidos e cores de tema ajustadas aos modos claro e escuro.
-- Melhorias gerais de estabilidade e fiabilidade em toda a aplicação.
+A versão 2.0 trouxe ficheiros MIDI como formas de onda, arrastar e largar, Ogg Vorbis e FLAC em todas as edições do Windows, atalhos de teclado personalizáveis, recuperação automática de ficheiros, ficheiros e gravações longos mais rápidos e um visual renovado. [Versão anterior (2.0)](v2.0/README_pt-PT.md)
 
 ## Todas as funcionalidades num relance
 
@@ -172,6 +169,7 @@ Formatos suportados: WAV, AIFF, FLAC, Ogg Vorbis, MP3 e WMA. O MP3 e o WMA utili
 - [Obter na Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw)
 - O instalador em **Releases** também abre a Microsoft Store e instala a versão oficial.
 - [Guia completo e perguntas frequentes](https://easyflow.co.kr/F/Doc/PadoWaveEditor/pt-PT)
+- [Versão anterior (2.0)](v2.0/README_pt-PT.md)
 - [Versão anterior (1.0)](v1.0/README_pt-PT.md)
 
 © 2026 Easyflow Inc.

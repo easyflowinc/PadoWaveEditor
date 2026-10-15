@@ -1,4 +1,4 @@
-> 📦 このページは **Pado Wave Editor 1.0** の紹介です。最新の 2.0 の紹介は[こちら](../README_ja.md)です。
+> 📦 このページは **Pado Wave Editor 1.0** の紹介です。最新の 2.1 の紹介は[こちら](../README_ja.md)です。
 
 🌐 **Languages**
 

@@ -16,10 +16,10 @@
 🇮🇩 [Bahasa Indonesia](README_id.md)
 
 <p align="center">
-    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.0 Logo">
+    <img src="PadoWaveEditorLogo.png" width="160" alt="Pado Wave Editor 2.1 Logo">
 </p>
 
-# Pado Wave Editor 2.0
+# Pado Wave Editor 2.1
 
 ### Editor audio gratis tempat kamu melihat suaramu — lalu memotong, menempel, dan merapikannya
 
@@ -27,7 +27,7 @@ Rekaman suara, latihan menyanyi, efek suara untuk videomu — seret file ke jend
 
 **Gratis** · **Windows 10 · 11** · **WAV · MP3 · FLAC · OGG · MIDI** · **14 bahasa** · **Tema terang & gelap**
 
-[Dapatkan di Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Panduan lengkap dan tanya jawab](https://easyflow.co.kr/F/Doc/PadoWaveEditor/id) · [Versi sebelumnya (1.0)](v1.0/README_id.md)
+[Dapatkan di Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw) · [Panduan lengkap dan tanya jawab](https://easyflow.co.kr/F/Doc/PadoWaveEditor/id) · [Versi sebelumnya (2.0)](v2.0/README_id.md) · [Versi sebelumnya (1.0)](v1.0/README_id.md)
 
 <p align="center">
 <img src="images/01-side-by-side-compare.webp" width="100%" alt="Tambatkan dua file berdampingan lalu putar atau ulangi sambil membandingkan">
@@ -130,21 +130,18 @@ Kalau aplikasi tiba-tiba tertutup, tenang. Saat dibuka lagi, aplikasi menemukan 
 
 ---
 
-## Yang baru di 2.0
+## Yang baru di 2.1
 
-Versi 2.0 adalah pembaruan besar yang membuat pengeditan sehari-hari lebih mudah, lebih cepat, dan lebih andal.
+- Dialog Buka dan Simpan: kotak Cari baru, opsi File lebih dulu, dan nama file diurutkan menurut angka.
+- Pilih cara tampilan mengikuti pemutaran: playhead tetap di tengah atau pindah ke halaman berikutnya di tepi kanan.
+- Memutar lagi setelah akhir file kini dimulai dari awal.
+- Kompresor dapat diatur untuk mengompresi lebih halus dan menangkap suara keras yang tiba-tiba.
+- Efek pada pilihan panjang menampilkan kemajuan dan dapat dibatalkan.
+- Tampilan waveform, jendela Partitur, serta salin dan tempel lebih cepat.
+- Angka dan tanggal mengikuti format regional Windows, serta pesan kesalahan dan status tampil dalam 14 bahasa.
+- Perbaikan pada equalizer, pratinjau Generator SFX, tata letak bahasa Arab, dan lainnya, serta ikon aplikasi yang lebih tajam.
 
-- **MIDI sebagai waveform.** Buka berkas MIDI (.mid): sound font bawaan memainkannya menjadi waveform yang dapat Anda sunting seperti audio biasa dan simpan sebagai WAV, MP3, dan lainnya.
-- **Bantuan untuk pemula.** Bantuan dalam aplikasi ditulis ulang dengan bahasa sederhana dan memandu Anda langkah demi langkah: membuka file, memilih bagian, mengedit, lalu menyimpan.
-- **Seret dan lepas.** Lepaskan file audio ke jendela untuk membukanya.
-- **Lebih banyak format.** Buka dan simpan file Ogg Vorbis (.ogg), termasuk surround 5.1 dan 7.1, dan FLAC kini berfungsi di semua edisi Windows.
-- **Pintasan keyboard yang dapat disesuaikan.** Atur ulang pintasan sesuai cara Anda bekerja.
-- **File dan rekaman panjang.** Membuka dan menyimpan file panjang jauh lebih cepat, dan audio ditulis saat perekaman berlangsung sehingga aplikasi tetap responsif.
-- **Pemulihan file otomatis.** Jika aplikasi tertutup tiba-tiba, pekerjaan Anda dipulihkan saat dibuka kembali.
-- **Audio USB lebih baik.** Menghubungkan atau mengganti mikrofon dan speaker USB terdeteksi lebih andal.
-- **Preset pengguna SFX Generator generasi kedua.** Lebih banyak preset dan kualitas suara lebih baik.
-- **Tampilan baru.** Ikon bilah alat lebih bersih dan tajam, serta warna tema disetel untuk mode terang dan gelap.
-- Peningkatan stabilitas dan keandalan menyeluruh di seluruh aplikasi.
+Versi 2.0 menghadirkan file MIDI sebagai waveform, seret dan lepas, Ogg Vorbis dan FLAC di semua edisi Windows, pintasan keyboard yang dapat disesuaikan, pemulihan file otomatis, file dan rekaman panjang yang lebih cepat, serta tampilan baru. [Versi sebelumnya (2.0)](v2.0/README_id.md)
 
 ## Semua fitur sekilas
 
@@ -172,6 +169,7 @@ Format yang didukung: WAV, AIFF, FLAC, Ogg Vorbis, MP3, WMA. MP3 dan WMA menggun
 - [Dapatkan di Microsoft Store](https://apps.microsoft.com/detail/9nj5928hw9pw)
 - Penginstal di **Releases** juga membuka Microsoft Store dan memasang versi resmi.
 - [Panduan lengkap dan tanya jawab](https://easyflow.co.kr/F/Doc/PadoWaveEditor/id)
+- [Versi sebelumnya (2.0)](v2.0/README_id.md)
 - [Versi sebelumnya (1.0)](v1.0/README_id.md)
 
 © 2026 Easyflow Inc.
